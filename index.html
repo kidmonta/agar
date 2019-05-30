@@ -68,6 +68,32 @@
 </head>
 
 <body >
+<script language="JavaScript">
+//////////F12 disable code////////////////////////
+    document.onkeypress = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+           //alert('No F-12');
+            return false;
+        }
+    }
+    document.onmousedown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            //alert('No F-keys');
+            return false;
+        }
+    }
+document.onkeydown = function (event) {
+        event = (event || window.event);
+        if (event.keyCode == 123) {
+            //alert('No F-keys');
+            return false;
+        }
+    }
+/////////////////////end///////////////////////
+</script>
+
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTPQVF6"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -174,12 +200,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <input id="nick" class="form-control save" data-box-id="0" placeholder="Nick" maxlength="25" />
                     <div class="mb-10">
                             <select id="gamemode" class="form-control" onchange="setserver($(this).val());" required>
-                             <option id="option_ffa1" style="background-color:#fff;color:#000;" value="167.86.80.145:8081">FFA (1)</option>
-                            <option id="option_ffa2" style="background-color:#fff;color:#000;" value="167.86.80.145:8082">FFA (2)</option>
-                            <option id="option_ffa3" style="background-color:#fff;color:#000;" value="167.86.80.145:8083">FFA (3)</option>
-                            <option id="option_ffa4" style="background-color:#fff;color:#000;" value="167.86.80.145:8083">FFA (4)</option>
-                            <option id="option_ffa5" style="background-color:#fff;color:#000;" value="167.86.80.145:8082">FFA (5)</option>
-                            <option id="option_ffa6" style="background-color:#fff;color:#000;" value="167.86.80.145:8081">FFA (6)</option>
+                             <option id="option_ffa1" style="background-color:#fff;color:#000;" value="kidmonta-fet.glitch.me">FFA (1)</option>
+                            <option id="option_ffa2" style="background-color:#fff;color:#000;" value="srawen5-st-1.glitch.me">FFA (2)</option>
+                            <option id="option_ffa3" style="background-color:#fff;color:#000;" value="killopn-ffa3.glitch.me">FFA (3)</option>
+                            <option id="option_ffa4" style="background-color:#fff;color:#000;" value="agario-ooo-ffa4.glitch.me">FFA (4)</option>
+                            <option id="option_ffa5" style="background-color:#fff;color:#000;" value="kidmonta-fet.glitch.me">FFA (5)</option>
+                            <option id="option_ffa6" style="background-color:#fff;color:#000;" value="kidmonta-fet.glitch.me">FFA (6)</option>
                             
                             </select>                    </div>
                     <br clear="both" />
