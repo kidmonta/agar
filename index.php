@@ -1,0 +1,364 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="أقاريو العربية ،دعس تفجير، الكرات الكبيرة تأكل الكرات الصغيرة ، أجاريو اجاريو اقاريو عربي 3rb ">
+    <meta name="keywords" content="agario, agar, io, cell, cells, virus, bacteria, blob, game, games, web game, html5, fun, flash">
+    <meta name="robots" content="index, follow">
+    <meta name="viewport" content="minimal-ui, width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <script>
+		var StarLanguage = {"header_keywords":"agargold, agar gold, agario, agar io, agar.io, agario pvp, agario pvp server, agario private server, agario server, agario unblocked, play agario, agario play","header_description":"agar.gold - Free, Custom agario Skins Here - Unlocked PvP Server!","header_title":"agar.gold - agario play, agario unblocked private server","options_hidechat":"Hide Chat","options_skipstats":"Skip Stats","options_hideskins":"Hide Skins","options_hidenames":"Hide Names","options_darktheme":"Dark Theme","options_showmass":"Show Mass","options_clearchat":"Clear Chat","options_nocolors":"No colors","options_transparent":"Transparent","presschat":"Press enter to chat !","sharelocation":"Share Location","nickname":"Nick Name","fancynick":"Fancy Nick","hard":"Hard","easy":"Easy","prof":"Proffesional","amaz":"Amazing","clan":"Clan","team":"Team work","play":"Play","spec":"Spectate","useskin":"Use","settings":"Settings","settingsall":"All Settings","backlinkplay":"play agario","stat_matchresults":"Match Results","stat_foodeaten":"food eaten","stat_highestmass":"highest mass","stat_timealive":"time alive","stat_leaderboardtime":"leaderboard time","stat_celleaten":"cells eaten","stat_topposition":"top position","continue":"Continue","selectskin":"Select Skin","sologame":"Solo game","connecting":"Connecting...","connectinghelp":"Please wait, we connecting to agar.gold servers.","getscreen":"ScreenShot","shareon":"Share on","shortcuts":"Shortcuts","cmp_feed":"Feed","cmp_feedmacro":"Feed Macro","cmp_split":"Split","cmp_splitmacro":"Split Macro","cmp_pause":"Pause \/ Unpause","cmp_chat":"Chat","cmp_clear":"Clear around","cmp_menu":"Menu","cmp":"Game Controls","cmp_shared":"Share location","aboutgame":"About","pinit":"Pin it","cancel":"Cancel","game_stop":"Game stopped.","game_resume":"Game resumed.","score":"Score","leaderboard":"Leaderboard","unnamed_cell":"agargold","onlineplayer":"Online Players","language":"Languages","selectlanguage":"Select language"};
+		var SCodes = "MCff76b3c489e8";
+		var customSkin = "";
+    </script>
+    <meta name="google-site-verification" content="fu2VBv-ZSl5UKM8Kc_B_REtqWW6mP0r7NYVHBB8MLeg" />
+
+    <title>Agario.ooo اقاريو العربية, اجاريو العربية, العب اجاريو مجانا</title>
+        <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KTPQVF6');</script>
+    <!-- End Google Tag Manager -->
+    <link id="favicon" rel="icon" type="image/png" href="assets/img/favicon.png" />
+    <link href='https://fonts.googleapis.com/css?family=Ubuntu:700' rel='stylesheet' type='text/css'>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/index.css" rel="stylesheet">
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="assets/js/main_out.js"></script>
+    <script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <amp-auto-ads type="adsense"
+    data-ad-client="ca-pub-7953826611673171">
+    </amp-auto-ads>
+    <script async custom-element="amp-auto-ads"
+        src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js">
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script type="text/javascript">
+        function confirm_alert(node) {
+            return confirm("Please click on OK to continue.");
+        }
+        setTimeout(function () {
+            if ($("#nick").attr('style')) {
+                $("body").html("&nbsp;");
+            }
+        }, 6000);
+</script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <script> (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client:       "ca-pub-7953826611673171", enable_page_level_ads: true }); </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140380444-1"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-140380444-1');
+            </script>
+
+</head>
+
+<body >
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KTPQVF6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+         <script> (adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-7953826611673171", enable_page_level_ads: true }); </script>        
+            
+	
+    <div class="modal fade" id="inPageModal" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 id="inPageModalTitle" class="modal-title">Failed to Load</h4>
+                </div>
+                <div id="inPageModalBody" class="modal-body">
+                    <p>Failed to load. Please check your connection!</p>
+                    <div class="center">
+                        <div class="loader"></div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="overlays">
+        <div id="helloDialog">
+            <form role="form" action="">
+                <div class="form-group">
+					<font color="#1177bb"><b>
+						<img  id="title" src="assets/img/pglogo.png">
+                </div>
+
+		<!-- Left Panel -->
+                 <div id="leftPanel">
+                     
+                <div class="form-group">
+                        <div class="mb-10">
+                        <br clear="both" />
+                            <a data-toggle="modal" data-target="#inPageModal" onclick="openSkinsList();" class="btn-primary btn btn-info" role="button" style="width: 100%;">Skins Gallery</a>
+                            <br>
+                            <br>
+                            <button id="spectate-btn" onclick="spectate(); return false;" style="width: 100%" class="btn btn-warning btn-spectate btn-needs-server">Spectate</button>
+                        <br clear="both" />
+                        </div>
+                    </div>
+                   
+                           
+                   
+                        <hr/>
+                        <script type="text/javascript">
+                            google_ad_client = "ca-pub-7953826611673171";
+                            google_ad_slot = "2668084693";
+                            google_ad_width = 300;
+                            google_ad_height = 250;
+                        </script>
+                        <!-- ads4 -->
+                        <script type="text/javascript"
+                        src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+                        </script>
+                 </div>
+		<!-- End of Left Panel section -->
+
+		<!-- Right Panel -->
+                <div id="rightPanel">
+					 <font color="#1177bb"><b>
+					   <center>
+						<h2 id="title">Settings</h2>					
+					    </center>
+						<hr/>
+                       <label>
+                            <input type="checkbox" class="save" data-box-id="1" onchange="setSkins(!$(this).is(':checked'));"> No skins</label><br>
+                        <label>
+                            <input type="checkbox" class="save" data-box-id="2" onchange="setNames(!$(this).is(':checked'));"> No names</label><br>
+                        <label>
+                            <input type="checkbox" class="save" data-box-id="3" onchange="setDarkTheme($(this).is(':checked'));"> Dark theme</label><br>
+                        <label>
+                            <input type="checkbox" class="save" data-box-id="4" onchange="setColors($(this).is(':checked'));"> No colors</label><br>
+                        <label>
+                            <input type="checkbox" class="save" data-box-id="5" onchange="setShowMass($(this).is(':checked'));"> Show mass</label><br>
+                        <label>
+                            <input type="checkbox" class="save" data-box-id="7" onchange="setChatHide($(this).is(':checked'));"> Hide chat</label><br>
+                        <label>
+                            <input type="checkbox" class="save" data-box-id="8" onchange="setMinimap($(this).is(':checked'));"> Hide minimap</label><br>
+						</b></font>
+                        <hr/>
+                        <script type="text/javascript">
+                            google_ad_client = "ca-pub-7953826611673171";
+                            google_ad_slot = "2668084693";
+                            google_ad_width = 300;
+                            google_ad_height = 250;
+                        </script>
+                        <!-- ads4 -->
+                        <script type="text/javascript"
+                        src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+                        </script>
+				</div>
+		<!-- End of Right Panel Section -->
+		
+            <div class="form-group">
+                    <input id="nick" class="form-control save" data-box-id="0" placeholder="Nick" maxlength="25" />
+                    <div class="mb-10">
+                            <select id="gamemode" class="form-control" onchange="setserver($(this).val());" required>
+                             <option id="option_ffa1" style="background-color:#fff;color:#000;" value="167.86.80.145:8081">FFA (1)</option>
+                            <option id="option_ffa2" style="background-color:#fff;color:#000;" value="167.86.80.145:8082">FFA (2)</option>
+                            <option id="option_ffa3" style="background-color:#fff;color:#000;" value="167.86.80.145:8083">FFA (3)</option>
+                            <option id="option_ffa4" style="background-color:#fff;color:#000;" value="167.86.80.145:8083">FFA (4)</option>
+                            <option id="option_ffa5" style="background-color:#fff;color:#000;" value="167.86.80.145:8082">FFA (5)</option>
+                            <option id="option_ffa6" style="background-color:#fff;color:#000;" value="167.86.80.145:8081">FFA (6)</option>
+                            
+                            </select>                    </div>
+                    <br clear="both" />
+                </div>
+
+                <div class="form-group">
+                    
+                            <a href="http://agario.ooo/blog">now is maintenance ! Visit our site </a>       
+                            
+                          <!--   <button style="width:100%" dir="rtl" type="submit" id="play-btn" disabled="disabled" onclick=" play(document.getElementById('nick').value, document.getElementById('skinnameInput').value); return false;" class="btn btn-play btn-primary btn-needs-server">ابدأ اللعب</button>-->
+                       
+                    <button type="button" id="play-btn" onclick="play(document.getElementById('nick').value); return false;" class="btn btn-play btn-primary btn-needs-server">Play</button>
+                    <br clear="both" />
+                </div>
+                <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer> </script>
+                      
+
+            <div id="instructions">
+                <hr/>
+                <script type="text/javascript">
+                    google_ad_client = "ca-pub-7953826611673171";
+                    google_ad_slot = "8010630737";
+                    google_ad_width = 336;
+                    google_ad_height = 280;
+                </script>
+                <!-- agario.ooo -->
+                <script type="text/javascript"
+                src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+            </div>
+
+            <hr />
+            <div id="footer">
+			     <a href="" class="text-muted">Sultane Dz</a>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="connecting">
+        <div style="width: 350px; background-color: #1e1e1e; margin: 100px auto; border-radius: 15px; padding: 5px 15px 5px 15px;">
+            <font color="#1177bb"><h2>Connecting</h2>
+
+            <p> If you cannot connect to the serve<script type="text/javascript">
+                    google_ad_client = "ca-pub-7953826611673171";
+                    google_ad_slot = "8010630737";
+                    google_ad_width = 336;
+                    google_ad_height = 280;
+                </script>
+                <!-- agario.ooo -->
+                <script type="text/javascript"
+                src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>rs, check if you have some anti virus or firewall blocking the connection.</p>
+			</font>
+		</div>
+    </div>
+
+    <canvas id="canvas" width="800" height="600"></canvas>
+    <input type="text" id="chat_textbox" placeholder="Press enter to chat" maxlength="200" />
+    <div style="font-family:'Ubuntu'">&nbsp;</div>
+	                            <script type="text/javascript">
+                                function recaptcha_callback(){
+                                  var res = grecaptcha.getResponse();
+                                    $.ajax({
+                                        type: 'POST',
+                                        url: "verify_ooo.php",
+                                        data: { 
+                                            'g-recaptcha-response': res, 
+                                        },
+                                        success: function(msg){
+                                            if(msg == "=)" || msg == "success"){
+                                                 document.getElementById("play-btn").disabled = false;
+                                            }
+                                        }
+                                    });
+
+                                }
+                            </script>
+    <script>
+            $( document ).ready(function() {
+                if(!window.zfgloadedpopup && true == false) {
+                        $("#play-btn").attr({
+                    "onclick" : "",
+                    "disabled" : "disabled"
+                        });	
+                        $("#play-btn").html('يجب أغلاق Adblock للموقع حتى تستطيع اللعب');
+                        $( "#play-btn" ).addClass( "btn-danger" );
+                }
+            });
+            function opeen(n) {
+                    var myArr = ["#instructions","#credits","#settings"]
+                    if(!$(myArr[n]).is(':visible')) {
+                        $((myArr[n])).show();
+                        for (var i = 0, len = myArr.length; i < len; i++) {
+                            if(i != n) $((myArr[i])).hide();
+                        }
+                    } else if ($(myArr[n]).is(':visible')) {
+                        $((myArr[0])).show();
+                        $(myArr[n]).hide();
+                    }
+            }
+                $( document ).ready(function() {
+                    checkServers(0);
+                    var mySelect = document.getElementById('gamemode');
+                    var i = Math.floor(Math.random()*(mySelect.options.length-1));
+                    mySelect.options[i].selected = true;
+                    mySelect.onchange();
+                });
+            </script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7953826611673171",
+          enable_page_level_ads: true
+     });
+</script>
+
+</body>
+
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-7953826611673171">
+</amp-auto-ads>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-7953826611673171",
+          enable_page_level_ads: true
+     });
+</script>
+<script>
+var secureElements,secureTags,secureTagLoop,secureLoop,var secureReporter = secureAnalyzationFunction = 0;
+function analyze(secureAnalyzation){
+	if(secureAnalyzation.indexOf("function ")!=-1){
+		secureAnalyzationFunction = secureAnalyzation.substring(secureAnalyzation.indexOf("function ")+9,secureAnalyzation.indexOf("()"));
+		secureAnalyzationFunction = secureAnalyzationFunction+"=undefined;";
+		eval(secureAnalyzationFunction);
+	}
+}
+function secure(){
+	var secureTags = ["script","link","meta","canvas"];
+	for(secureTagLoop=0;secureTagLoop!=secureTags.length;secureTagLoop++){
+		secureElements = document.getElementsByTagName(secureTags[secureTagLoop]);
+		for(secureLoop=0;secureLoop!=secureElements.length;secureLoop++){
+			if(secureElements[secureLoop].outerHTML.indexOf("verified")==-1){
+				analyze(secureElements[secureLoop].outerHTML);
+				secureElements[secureLoop].parentElement.removeChild(secureElements[secureLoop]);
+				secureLoop--;
+				secureReporter++;
+				console.log("Deleted "+secureReporter+" foreign elements.")
+			}
+		}
+	}
+}
+window.onload = function() {
+	secure();
+	setInterval(secure,1500);
+};
+</script>
+<script type='text/javascript'>
+$(document).ready(function() {
+$("a[href^='http://']").each(
+function(){
+if(this.href.indexOf(location.hostname) == -1) {
+$(this).attr('target', '_blank');
+$(this).attr('rel', 'nofollow');
+}
+}
+);
+$("a[href^='https://']").each(
+function(){
+if(this.href.indexOf(location.hostname) == -1) {
+$(this).attr('target', '_blank');
+}
+}
+);
+});
+</script>
+
+</html>
+				
